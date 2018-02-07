@@ -4,7 +4,7 @@
 
 ['x'] spectrum data at 100 Hz
 
-['y'] sleep scores {1: Wake,  2:N1,  3:N3,  4:not_used  5:REM,  6:Unknown  7:Undetermined }
+['y'] sleep scores {0: Wake,  1:N1,   2:N2    3:N3,   4:REM }
 
 ['fs'] frequency = 100
 
